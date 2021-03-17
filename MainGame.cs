@@ -1,8 +1,8 @@
 ﻿/*Author: Denis Kontorovich
  File Name: TowerTrek
  Project Name: MainGame.cs
- Creation Date: May 25 2019
- Modified Date: June 13 2019
+ Creation Date: May 25 2020
+ Modified Date: June 13 2020
  Description:  Game where the player attempts to jump on top of falling platforms to avoid falling into the lava below.
  The player has to avoid additional spikes placed on the right and left wall of the games. The player starts off with
  three lives and every time they hit any sort of spike they lose a life. When the player has zero lives left then the game is over.
